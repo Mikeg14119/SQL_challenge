@@ -7,7 +7,7 @@ This assignment provided us with a set of tables relating to a company “Pewlet
 Introduction
 
 
-This assignment is a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files from which we will pull the available data. 
+This assignment is a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files from which I pulled the available data. 
 
 
 Data Collection, Preparation, Exploration, and Cleaning
